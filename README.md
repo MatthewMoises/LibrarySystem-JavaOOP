@@ -19,7 +19,5 @@ Comparator for sorting
 This project demonstrates:
 Java OOP fundamentals (classes, objects, encapsulation)
 Basic authentication logic
-
 CRUD operations
-
 Console-based application design
